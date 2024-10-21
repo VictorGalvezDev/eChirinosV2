@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637881802708",
+    "project_id": "proyecto-firebase-9d4fc",
+    "storage_bucket": "proyecto-firebase-9d4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637881802708:android:d51b1faad102410dbb4041",
+        "android_client_info": {
+          "package_name": "com.dam.echirinosv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_SBEjY-4hwRJLiEI8b6p6y1JWZOZyCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

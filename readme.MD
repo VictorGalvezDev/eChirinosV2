@@ -1,0 +1,1 @@
+Segunda version del proyecto de gestión de incidencias de una escuela donde se ha cambiado la base de datos local (SQLite) a una remota (Firebase)
